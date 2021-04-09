@@ -1,0 +1,33 @@
+.header {
+    padding: 20px 10%;
+    background: rgba(93, 212, 173, 0.719);
+
+    &__ttl {
+        font-size: 24px;
+        letter-spacing: 0.5em;
+    }
+}
+
+.sec1 {
+    padding: 100px 10%;
+
+    &__ttl {
+        margin-bottom: 80px;
+        color: rgb(41, 54, 179);
+        font-size: 18px;
+        font-weight: normal;
+        letter-spacing: 0.2em;
+    }
+
+    &__txt {
+        font-size: 16px;
+        line-height: 1.8em;
+    }
+}
+
+.footer {
+    &__txt {
+        font-size: 14px;
+        text-align: center;
+    }
+}

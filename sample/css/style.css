@@ -1,0 +1,32 @@
+.header {
+  padding: 20px 10%;
+  background: rgba(199, 126, 43, 0.719);
+}
+
+.header__ttl {
+  font-size: 24px;
+  letter-spacing: 0.5em;
+}
+
+.sec1 {
+  padding: 100px 10%;
+}
+
+.sec1__ttl {
+  margin-bottom: 80px;
+  color: #2936b3;
+  font-size: 18px;
+  font-weight: normal;
+  letter-spacing: 0.2em;
+}
+
+.sec1__txt {
+  font-size: 16px;
+  line-height: 1.8em;
+}
+
+.footer__txt {
+  font-size: 14px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
